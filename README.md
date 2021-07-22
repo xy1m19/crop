@@ -1,1 +1,1 @@
-# pryptology
+# cryptology
